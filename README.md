@@ -1,6 +1,4 @@
-[![Greenkeeper badge](https://badges.greenkeeper.io/marianzburlea/pug-starter.svg)](https://greenkeeper.io/)
-
-# Pug starter
+# My CV v3 Junior
 
 ## Table of contents
 
